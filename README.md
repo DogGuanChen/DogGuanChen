@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DogGuanChen
-- 👀 I’m interested in playing the sleeping
-- 🌱 I’m currently learning English for CET-4
+- 👀 I’m interested in DL in GCN & GAI
+- 🌱 I’m currently learning English for IETLEs
 - 💞️ I’m looking to collaborate on studying
 - 📫 How to reach me with e-mail is 3382006114@qq.com
 
